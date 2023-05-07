@@ -25,7 +25,7 @@ CSCI_6364_ML
 ## Get Started
 * Clone the repo
 ```bash
-git clone 
+git clone https://github.com/Vizards8/CSCI_6364_ML.git
 ```
 
 * Install dependencies
