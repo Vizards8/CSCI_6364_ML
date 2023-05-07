@@ -44,12 +44,13 @@ tensorboard --logdir=logs
 
 ## Results
 * I trained the models for 60k steps until they converged
-![png](/plot/result/3D CNN_Loss.png)
-![png](/plot/result/3D ResNet_Loss.png)
+<img src="./plot/result/3D CNN_Loss.png" width="500">
+<img src="./plot/result/3D ResNet_Loss.png" width="500">
 
 * Visual comparison
-![png](/plot/result/Accuracy.png)
-![png](/plot/result/Loss.png)
-![png](plot/result/F1.png)
-![png](plot/result/Precision.png)
-![png](plot/result/Recall.png)
+
+<img src="./plot/result/Accuracy.png" width="500">
+<img src="./plot/result/Loss.png" width="500">
+<img src="./plot/result/F1.png" width="500">
+<img src="./plot/result/Precision.png" width="500">
+<img src="./plot/result/Recall.png" width="500">
